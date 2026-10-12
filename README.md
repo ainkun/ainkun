@@ -1,6 +1,6 @@
 <p align="center">
   <b>アインくん &nbsp; / &nbsp; HUSSAIN</b><br>
-  <sub>Security researcher · CTF player · Always curious about what lies underneath.</sub>
+  <sub>Security researcher · CTF player .</sub>
 </p>
 
 <p align="center">
