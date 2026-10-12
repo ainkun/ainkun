@@ -1,7 +1,5 @@
-<p align="center">
-  <b>アインくん &nbsp; / &nbsp; HUSSAIN</b><br>
-  <sub>Security researcher · CTF player .</sub>
-</p>
+<h1 align="center">アインくん &nbsp;/&nbsp; HUSSAIN</h1>
+<h4 align="center">Security researcher · CTF player</h3>
 
 <p align="center">
   <a href="https://ainkun.com"><b>Portfolio ↗</b></a> &nbsp; / &nbsp;
