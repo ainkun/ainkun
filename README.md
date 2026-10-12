@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://ainkun.com">
-    <img src="assets/ainkun-banner.png" width="100%" alt="ainkun — Security Researcher. A curious mind. An offensive mindset. An anime portrait on a sunlit Japanese street.">
-  </a>
-</p>
-
-<p align="center">
   <b>アインくん &nbsp; / &nbsp; HUSSAIN</b><br>
   <sub>Security researcher · CTF player · Always curious about what lies underneath.</sub>
 </p>
